@@ -1,0 +1,3 @@
+# Wiki
+
+[Commands](commands.md)
